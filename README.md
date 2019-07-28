@@ -1,5 +1,5 @@
 # hello-world
 It is my first project
-Hi humans!
+Hi comrades!
 
 I like python;
